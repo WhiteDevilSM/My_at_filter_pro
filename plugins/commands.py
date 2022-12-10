@@ -43,7 +43,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💠 Support 💠', url='https://t.me/sm_support'),
             InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/SM_Ato_filter_bot')
-            ],[      
+            ],[ 
+            InlineKeyboardButton('🔥 Group 🔥', url='https://t.me/SM_Movies_Group'),
+            InlineKeyboardButton('💥 SM_Updates 💥', url='https://t.me/SM_Updates_1')
+            ],[
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
            ]]
@@ -89,6 +92,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('💠 Support 💠', url='https://t.me/sm_support'),
             InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/SM_Ato_filter_bot')
+            ],[ 
+            InlineKeyboardButton('🔥 Group 🔥', url='https://t.me/SM_Movies_Group'),
+            InlineKeyboardButton('💥 SM_Updates 💥', url='https://t.me/SM_Updates_1')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
