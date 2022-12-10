@@ -60,7 +60,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>𝙸𝚏 𝚈𝚘𝚞 𝚆𝚊𝚗𝚝 𝙰𝚗𝚢 𝙼𝚘𝚟𝚒𝚎 𝙿𝚕𝚎𝚊𝚜𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙾𝚗 @at3movies</b>")
+    await message.reply_text("<b>𝙸𝚏 𝚈𝚘𝚞 𝚆𝚊𝚗𝚝 𝙰𝚗𝚢 𝙼𝚘𝚟𝚒𝚎 𝙿𝚕𝚎𝚊𝚜𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝 𝙾𝚗 @SM_Movies_Request</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -763,8 +763,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Support 💠', url='https://t.me/bots_supported'),
-            InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/at3moviesofficalbot')
+            InlineKeyboardButton('💠 Support 💠', url='https://t.me/sm_support'),
+            InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/SM_Ato_filter_bot')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -845,7 +845,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('👨‍💻 Dᴇᴠᴏʟᴏᴘᴇʀ', url=f"https://t.me/aboutexinos"),
+            InlineKeyboardButton('👨‍💻 Dᴇᴠᴏʟᴏᴘᴇʀ', url=f"https://t.me/White_devil_123"),
             InlineKeyboardButton('🎴 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', callback_data='source')
         ],[
             InlineKeyboardButton('🏘 Hᴏᴍᴇ', callback_data='start'),
@@ -1257,8 +1257,8 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         cap =  f"""┏ 🎪 ᴛɪᴛɪʟᴇ : {search}
-┣ 🤴𝙰𝚂𝙺𝙴𝙳 𝙱𝚈 : {message.from_user.mention}
-┣ ⚡𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : <a href='https://t.me/{temp.U_NAME}'>𝑰𝒕𝒔 𝑴𝒆</a>
+┣ 💂𝙰𝚂𝙺𝙴𝙳 𝙱𝚈 : {message.from_user.mention}
+┣ 💥𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 : <a href='https://t.me/{temp.U_NAME}'>𝑰𝒕𝒔 𝑴𝒆</a>
 ┗ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 05 ᴍɪɴᴜᴛᴇꜱ """
     if imdb and imdb.get('poster'):
         try:
