@@ -39,9 +39,9 @@ async def save_group(bot, message):
             return
         buttons = [[
                      InlineKeyboardButton('ᴄʜᴇᴄᴋ ᴩᴍ', url=f"https://t.me/{temp.U_NAME}"), 
-                     InlineKeyboardButton("ʙᴏᴛ oᴡɴᴇʀ", url="t.me/AFxSU")
+                     InlineKeyboardButton("ʙᴏᴛ oᴡɴᴇʀ", url="t.me/White_devil_123")
                  ],[
-                     InlineKeyboardButton(" ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 📌", url="https://graph.org/%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%9A-11-26")
+                     InlineKeyboardButton(" ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 📌", url="@SM_Updates_1")
                   ]] 
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -62,9 +62,9 @@ async def save_group(bot, message):
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                             InlineKeyboardButton('ᴄʜᴇᴄᴋ ᴩᴍ', url=f"https://t.me/{temp.U_NAME}"), 
-                                                                            InlineKeyboardButton("ʙᴏᴛ oᴡɴᴇʀ", url="t.me/AFxSU")
+                                                                            InlineKeyboardButton("ʙᴏᴛ oᴡɴᴇʀ", url="t.me/White_devil_123")
                                                                         ],[
-                                                                            InlineKeyboardButton(" ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 📌", url="https://graph.org/%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%9A-11-26")
+                                                                            InlineKeyboardButton(" ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 📌", url="@SM_Updates_1")
                                                                         ]] 
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
