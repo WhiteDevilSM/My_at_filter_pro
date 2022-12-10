@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/9f1781faeab4a4a775722.jpg" alt="RASHMIKA Logo">
+  <img src="https://telegra.ph/file/008768b18d9671f0304b6.jpg" alt="RASHMIKA Logo">
 </p>
 <h1 align="center">
-  <b>Rashmika The Bot</b>
+  <b>SM The Bot</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Rashmika-Bot!;Created+by+ɛӼ_ռöֆ__⁷⁷⁷!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
@@ -136,7 +136,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MyBotzz/RashmikaBot
+git cone https://github.com/WhiteDevilSM/My_at_filter_pro
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -149,8 +149,8 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘](https://img.shields.io/static/v1?label=ɛӼ_ռöֆ__⁷⁷⁷&message=Github&color=critical)](https://github.com/MyBotzz/RashmikaBot)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/AFxSU)
+* [![🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘](https://img.shields.io/static/v1?label=ɛӼ_ռöֆ__⁷⁷⁷&message=Github&color=critical)](https://github.com/WhiteDevilSM/My_at_filter_pro)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/White_devil_123)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
