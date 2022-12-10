@@ -4,7 +4,7 @@ then
   git clone https://github.com/MyBotzz/RashmikaBot.git /RashmikaBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /My_at_filter_pro
+  git clone $UPSTREAM_REPO /RashmikaBot
 fi
 cd  /RashmikaBot
 pip3 install -U -r requirements.txt
