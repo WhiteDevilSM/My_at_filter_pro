@@ -9,18 +9,18 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Developer : <a href='https://t.me/AFxSU'>🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a>
+🕵‍♂ Developer : <a href='https://t.me/White_devil_123'>🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a>
 📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 🖥 Language : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 📡 Server : <a href='https://t.me/quickfastt'>QuickFast'</a>
-🔋 Bot Group : @at3movies </b>"""
+🔋 Channel : @SM_Updates_1 </b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/MyBotzz/RashmikaBot">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/WhiteDevilSM/My_at_filter_pro">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/AFxSU">🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨</a></b>"""
+- <a href="https://t.me/White_devil_123">🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -137,8 +137,8 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : 🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋 [ OғғLɪɴᴇ ]
-• ᴜꜱᴇʀɴᴀᴍᴇ : @AFxSU
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/AFxSU'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴜꜱᴇʀɴᴀᴍᴇ : @White_devil_123
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/White_devil_123'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -174,8 +174,8 @@ Nᴀᴍᴇ - {}"""
 🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 =========== • ✠ • ===========
-▫️ɢʀᴏᴜᴘ : <a href="https://t.me/at3moviesofficalbot">AT3MOVIES"</a>
-▫️ɢʀᴏᴜᴘ : <a href="https://t.me/+56FhcxnFqx01NTJl">ASk ANY MOVIE"</a>
+▫️ɢʀᴏᴜᴘ : <a href="https://t.me/SM_Movies_Group">AT3MOVIES"</a>
+▫️ɢʀᴏᴜᴘ : <a href="https://t.me/SM_Movies_Request">ASk ANY MOVIE"</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
