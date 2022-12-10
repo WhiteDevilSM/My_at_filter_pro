@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/008768b18d9671f0304b6.jpg" alt="RASHMIKA Logo">
+  <img src="https://telegra.ph/file/e433616e82cba2bd8b9ac.jpg" alt="RASHMIKA Logo">
 </p>
 <h1 align="center">
   <b>SM The Bot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Rashmika-Bot!;Created+by+ɛӼ_ռöֆ__⁷⁷⁷!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+SM-Bot!;Created+by+WhiteDevil!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
 [![Stars](https://img.shields.io/github/stars/RashmikaBot?style=flat-square&color=yellow)](https://github.com/MyBotzz/RashmikaBot)
