@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MyBotzz/RashmikaBot",
-    "repository": "https://github.com/MyBotzz/RashmikaBot",
+    "website": "https://github.com/WhiteDevilSM/My_at_filter_pro",
+    "repository": "https://github.com/WhiteDevilSM/My_at_filter_pro",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
