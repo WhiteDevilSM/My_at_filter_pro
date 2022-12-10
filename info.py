@@ -21,10 +21,10 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/d76f0470c4291c42e3ff9.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/2cc0126fdd3b40bbf123a.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/008768b18d9671f0304b6.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/008768b18d9671f0304b6.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/008768b18d9671f0304b6.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/008768b18d9671f0304b6.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -46,12 +46,12 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_supported')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MyBotzzupdate')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/SM_Movies_Group')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/SM_Updates_1')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bots_supported')
-P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'sm_support')
+P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
