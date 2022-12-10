@@ -41,8 +41,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Support 💠', url='https://t.me/bots_supported'),
-            InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/at3moviesofficalbot')
+            InlineKeyboardButton('💠 Support 💠', url='https://t.me/sm_support'),
+            InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/SM_Ato_filter_bot')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -87,8 +87,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 Support 💠', url='https://t.me/bots_supported'),
-            InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/at3moviesofficalbot')
+            InlineKeyboardButton('💠 Support 💠', url='https://t.me/sm_support'),
+            InlineKeyboardButton('💠 Assistant 💠', url='https://t.me/SM_Ato_filter_bot')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
